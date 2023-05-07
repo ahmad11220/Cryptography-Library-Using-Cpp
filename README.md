@@ -1,7 +1,10 @@
-# Crypto_System
+# Crypto_System<br>
+## Overview:
+![alt text](https://lh3.googleusercontent.com/u/0/drive-viewer/AFGJ81r8VE0jHuejbba5oKIN8dAnrXOEaSn8mTaBtE0ckJoLVxzyyl0tGZ5DZBcI5CNh3qqMRqcp49EYlPQHr9zZ1lZvziD9DA=w1920-h902)
+## Description: <br>
 ### This is a cryptography library implemented in C++ that provides basic encryption and decryption functionality using popular cryptographic algorithms. 
-### Currently, the library supports the following algorithms:
-<br>-
+### Currently, the library supports the following algorithms:<br>
+
 #### AES (Advanced Encryption Standard): <br>A symmetric block cipher that uses a fixed block size of 128 bits and supports key sizes of 128, 192, or 256 bits. AES is widely used for encrypting sensitive data and is considered to be very secure.
 <br>-
 #### DES (Data Encryption Standard):<br>A symmetric block cipher that uses a fixed block size of 64 bits and a key size of 56 bits. DES was widely used in the past, but has since been replaced by more secure algorithms like AES.
